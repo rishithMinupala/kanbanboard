@@ -1,0 +1,26 @@
+.dashboard{
+    background-color: #f1f2f7;
+    height:100%;
+    width:100%;
+    display:flex;
+    flex-direction:row;
+    justify-content: space-evenly;
+}
+
+
+.group{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    width:18%
+}
+
+.group_divider{
+    flex-direction: column;
+    display: flex;
+    width:18%;
+    align-items: center;
+    row-gap: 10px;
+    column-gap: 10px;
+}

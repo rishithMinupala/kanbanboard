@@ -1,0 +1,26 @@
+.card_main {
+    background-color: white;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    padding: 16px;
+    border-radius: 8px;
+    margin-bottom: 10px;
+}
+
+.id {
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.title {
+    font-size: 14px;
+    margin: 8px 0;
+}
+
+.tag {
+    display: flex;
+    gap: 8px;
+}
+
+.tag_text {
+    font-size: 12px;
+}
